@@ -1,5 +1,13 @@
 # closure
 
+[![License](https://img.shields.io/github/license/howar31/closure?style=flat-square)](LICENSE)
+[![Built for Claude Code](https://img.shields.io/badge/built%20for-Claude%20Code-D77655?style=flat-square)](https://claude.com/claude-code)
+[![Conventional Commits](https://img.shields.io/badge/conventional%20commits-1.0.0-yellow?style=flat-square)](https://www.conventionalcommits.org)
+[![Last Commit](https://img.shields.io/github/last-commit/howar31/closure?style=flat-square)](https://github.com/howar31/closure/commits/main)
+[![Stars](https://img.shields.io/github/stars/howar31/closure?style=flat-square)](https://github.com/howar31/closure/stargazers)
+[![Open Issues](https://img.shields.io/github/issues/howar31/closure?style=flat-square)](https://github.com/howar31/closure/issues)
+[![Sponsor](https://img.shields.io/badge/Sponsor-donate.howar31.com-b4532c?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjg0IDQuNjFhNS41IDUuNSAwIDAgMC03Ljc4IDBMMTIgNS42N2wtMS4wNi0xLjA2YTUuNSA1LjUgMCAwIDAtNy43OCA3Ljc4bDEuMDYgMS4wNkwxMiAyMS4yM2w3Ljc4LTcuNzggMS4wNi0xLjA2YTUuNSA1LjUgMCAwIDAgMC03Ljc4eiIvPjwvc3ZnPg==)](https://donate.howar31.com/)
+
 English | [正體中文](README.zh-Hant.md)
 
 A [Claude Code](https://claude.com/claude-code) skill that **audits a work session before it ends** and gives **every open thread a disposition**: resolved now, documented, memorized, handed off, or dropped with your approval. It re-reads the session instead of summarizing it, so a thread raised midway is not lost when the session closes. No hook, no MCP server, no external service.
