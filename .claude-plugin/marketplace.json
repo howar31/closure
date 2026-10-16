@@ -1,0 +1,12 @@
+{
+  "name": "closure",
+  "owner": { "name": "Howar31", "url": "https://github.com/howar31" },
+  "metadata": { "description": "Self-hosted single-plugin marketplace for closure" },
+  "plugins": [
+    {
+      "name": "closure",
+      "source": "./",
+      "description": "End-of-session audit that gives every open thread a disposition: resolved, documented, memorized, handed off, or dropped with approval"
+    }
+  ]
+}

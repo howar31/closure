@@ -1,0 +1,17 @@
+{
+  "name": "closure",
+  "version": "0.1.0",
+  "description": "End-of-session audit that gives every open thread a disposition: resolved, documented, memorized, handed off, or dropped with approval",
+  "author": { "name": "howar31", "url": "https://github.com/howar31" },
+  "homepage": "https://github.com/howar31/closure",
+  "repository": "https://github.com/howar31/closure.git",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-code-plugin",
+    "skills",
+    "session",
+    "workflow",
+    "productivity"
+  ]
+}
